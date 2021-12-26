@@ -19,8 +19,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Inf Include="LittleKernelDriver.inf">
-      <Filter>Driver Files</Filter>
-    </Inf>
+    <ClCompile Include="LittleDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
